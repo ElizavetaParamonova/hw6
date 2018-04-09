@@ -1,6 +1,5 @@
 # hw6
 ### Задание 1
-
 ![задание 1](https://github.com/ElizavetaParamonova/hw6/blob/master/Снимок%20экрана%202018-04-09%20в%2022.01.03.png)
 
 ![задание 2](https://github.com/ElizavetaParamonova/hw6/blob/master/Снимок%20экрана%202018-04-09%20в%2022.09.22.png)
@@ -23,3 +22,4 @@
 ![https://github.com/ElizavetaParamonova/hw6/blob/master/Снимок%20экрана%202018-04-09%20в%2023.17.31.png](https://github.com/ElizavetaParamonova/hw6/blob/master/Снимок%20экрана%202018-04-09%20в%2023.17.31.png)
 
 Быстро получить данные по наиболее редко встречающимся словам можно нажав на кнопку "invert order". К сожалению, эта функция почему-то упорно не хотела работать на моем компьютере, и я просто прокрутила ползунок вниз. 
+
